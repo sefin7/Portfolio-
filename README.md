@@ -11,12 +11,11 @@
   <div class="container">
     <div class="profile-card">
       <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=120&q=80 class="profile-img">
-      
-      <h1>@shaifinn</h1>
-      <p>Follow me for the entertainment </p>
-      <div class="buttons">
-        <a href="https://www.instagram.com/shaifinn" target="_blank" class="btn insta">📸 Instagram</a>
-        <a href="https://www.snapchat.com/add/sefinn_07?share_id=m-apTEkDFoY&locale=en-GB" target="_blank" class="btn snap">👻 Snapchat</a>
+        <h1>@shaifinn</h1>
+  <p>Follow me for the entertainment </p>
+   <div class="buttons">
+  <a href="https://www.instagram.com/shaifinn" target="_blank" class="btn insta">📸 Instagram</a>
+  <a href="https://www.snapchat.com/add/sefinn_07?share_id=m-apTEkDFoY&locale=en-GB" target="_blank" class="btn snap">👻 Snapchat</a>
       </div>
     </div>
   </div>
